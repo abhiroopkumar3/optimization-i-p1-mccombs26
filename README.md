@@ -106,3 +106,18 @@ Minimize CVaR (expected loss in the worst β% of cases)
 - **Pandas / NumPy** – Data processing
 - **Matplotlib** – Visualization
 - **Linear Programming**
+
+---
+
+## Authors
+
+- Abhiroop Kumar
+- Manny Escalante
+- Simoni Dalal
+- Stiles Clements
+
+---
+
+## Disclaimer
+
+This project is for academic purposes only and does not constitute financial or investment advice.
